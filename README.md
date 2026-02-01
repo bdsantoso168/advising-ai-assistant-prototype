@@ -5,7 +5,7 @@
 ## 🌟 Project Overview  
 This repository documents the full design, development, and implementation of an **AI-powered advising assistant**, created as the capstone group project for **ISOM 360 – AI for Business Bots**. The goal was to build a safe, helpful, and policy-aligned chatbot to support undergraduate academic advising at a university’s business school.
 
-According to the official project brief, the chatbot was intended to *“assist students in finding answers to curriculum and advising questions across different majors… and recognize its limitations while escalating to a human advisor when appropriate.”* :contentReference[oaicite:0]{index=0}
+According to the official project brief, the chatbot was intended to *“assist students in finding answers to curriculum and advising questions across different majors… and recognize its limitations while escalating to a human advisor when appropriate.”*
 
 Our solution is built entirely using **no-code LLM tools (Custom GPT)** and a carefully structured knowledge base with guardrails. The prototype was successfully demonstrated to faculty and leadership at the end of the semester.
 
